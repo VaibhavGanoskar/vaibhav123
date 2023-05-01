@@ -75,7 +75,7 @@ const App = ()  => {
           }
           {
             isFruitRegxMatch && (
-              <span className="error-text"> php is not allowed  in fruit</span>
+              <span className="error-text"> php is not allowed  in fruit = total </span>
             )
           }
         </div>
